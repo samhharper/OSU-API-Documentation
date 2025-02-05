@@ -6,11 +6,11 @@ The API endpoint as of April 19, 2016 is https://content.osu.edu/v2/bus/routes/
 ## Bus Lines
 Each bus line has a particular code, as specified below:
 - Medical Center - MC
-- Campus Loop North - CLN
-- Buckeye Village - BV
 - Campus Loop South - CLS
+- Buckeye Express - BE
+- Campus Connector - CC
 - East Residential - ER
-- North Express - NE
+- North West Conncector - NWC
 
 ## Retrieving stop information
 
